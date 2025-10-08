@@ -1,5 +1,5 @@
 # 🏎️ Heyy!!
-My name is Paarth Trehan, and I’m a second-year Computer Science major at Northeastern University.<br>🔭 I’m currently working on a food delivery app.<br>👯 I’m open to collaborating on any project that aims to do something unique and create a positive impact on society.<br>🌱 I’m currently learning C++.<br>
+My name is Paarth Trehan, and I’m a second-year Computer Science major at Northeastern University.<br>🔭 I’m currently working on a food delivery app.<br>👯 I’m open to collaborating on any project that aims to do something unique and create a positive impact on society.<br>🌱 I’m currently learning C.<br>
 
 
 # 💻 Tech Stack:
